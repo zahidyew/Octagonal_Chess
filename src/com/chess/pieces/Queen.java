@@ -1,15 +1,9 @@
 //***********************************************************************************
-// Project: Group TMFG2_34
-//
-// Authors and matric number: 
-// MUHAMMAD ZAHID BIN MUHAMAD YEW               56869
-// NUR SYAZWANI ATIFAH BINTI MUHAMMAD FAROUK    57374
-// NUR HIDAYAH BINTI BADRUN HISYAM              58973
-// NURUL ABIDAH BINTI HYDRUS                    57472
-//
-// Honour code: We pledge that this program represents our own program code. We received help from
-// Ashish Kedia and Adarsh Mohata for their work on the chess program called ChessOOP, which is 
-// our main reference in doing this project. 
+// Authors:
+// MUHAMMAD ZAHID BIN MUHAMAD YEW
+// NUR SYAZWANI ATIFAH BINTI MUHAMMAD FAROUK
+// NUR HIDAYAH BINTI BADRUN HISYAM
+// NURUL ABIDAH BINTI HYDRUS
 //***********************************************************************************
 
 
